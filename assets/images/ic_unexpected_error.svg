@@ -1,0 +1,35 @@
+<!-- LinShare is an open source filesharing software, part of the LinPKI software
+suite, developed by Linagora.
+
+Copyright (C) 2020 LINAGORA
+
+This program is free software: you can redistribute it and/or modify it under the
+terms of the GNU Affero General Public License as published by the Free Software
+Foundation, either version 3 of the License, or (at your option) any later version,
+provided you comply with the Additional Terms applicable for LinShare software by
+Linagora pursuant to Section 7 of the GNU Affero General Public License,
+subsections (b), (c), and (e), pursuant to which you must notably (i) retain the
+display in the interface of the “LinShare™” trademark/logo, the "Libre & Free" mention,
+the words “You are using the Free and Open Source version of LinShare™, powered by
+Linagora © 2009–2020. Contribute to Linshare R&D by subscribing to an Enterprise
+offer!”. You must also retain the latter notice in all asynchronous messages such as
+e-mails sent with the Program, (ii) retain all hypertext links between LinShare and
+http://www.linshare.org, between linagora.com and Linagora, and (iii) refrain from
+infringing Linagora intellectual property rights over its trademarks and commercial
+brands. Other Additional Terms apply, see
+<http://www.linshare.org/licenses/LinShare-License_AfferoGPL-v3.pdf>
+for more details.
+This program is distributed in the hope that it will be useful, but WITHOUT ANY
+WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE. See the GNU Affero General Public License for
+more details.
+You should have received a copy of the GNU Affero General Public License and its
+applicable Additional Terms for LinShare along with this program. If not, see
+<http://www.gnu.org/licenses/> for the GNU Affero General Public License version
+3 and <http://www.linshare.org/licenses/LinShare-License_AfferoGPL-v3.pdf> for
+the Additional Terms applicable to LinShare software. -->
+
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M97.5 120H22.5C10.0781 120 0 109.922 0 97.5V22.5C0 10.0781 10.0781 0 22.5 0H97.5C109.922 0 120 10.0781 120 22.5V97.5C120 109.922 109.922 120 97.5 120Z" fill="#F2F2F2"/>
+<path d="M62.2978 62.2976V48.2976H57.704V62.2976H62.296H62.2978ZM62.2978 71.7039V66.9999H57.704V71.7039H62.296H62.2978ZM60 36.7039C72.9063 36.7039 83.2978 47.0936 83.2978 59.9999C83.2978 72.9061 72.9063 83.2976 60 83.2976C47.0938 83.2976 36.7022 72.9061 36.7022 59.9999C36.7022 47.0936 47.0938 36.7021 60 36.7021V36.7039Z" fill="#D3D3D3"/>
+</svg>

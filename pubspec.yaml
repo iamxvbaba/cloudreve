@@ -1,0 +1,40 @@
+name: cloudreve
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment: 
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies: 
+  cupertino_icons: ^1.0.2
+  get: 4.3.4
+  cookie_jar: 3.0.1
+  path_provider: ^2.0.2
+  flutter_slidable: ^0.6.0
+  permission_handler: ^8.1.4+2
+  file_picker: ^3.0.4
+
+  flutter_svg: 0.22.0
+  extended_image: ^4.0.0
+
+  focused_menu: ^1.0.5
+  percent_indicator: ^3.0.1
+
+  just_audio: ^0.9.5
+  rxdart: '>=0.26.0 <0.28.0'
+
+  fijkplayer: ^0.10.0
+  fijkplayer_skin: ^2.2.2
+
+  flutter:
+    sdk: flutter
+
+dev_dependencies: 
+  flutter_test: 
+    sdk: flutter
+
+flutter: 
+  uses-material-design: true
+
+  assets:
+    - assets/images/
